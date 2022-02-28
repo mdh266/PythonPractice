@@ -11,6 +11,7 @@
 | [Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/PerfectSquare.py) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/MaximumSubarray.py) |
 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/RemoveDuplicatesSortedList.py) |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestCommonPrefix.py) |
 
 ## Medium
 ----------
