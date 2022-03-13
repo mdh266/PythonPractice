@@ -12,6 +12,9 @@
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/MaximumSubarray.py) |
 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/RemoveDuplicatesSortedList.py) |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestCommonPrefix.py) |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/palindrome-number.py) |
+| [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/length-of-last-word.py) |
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestPalindrome.py) |
 
 ## Medium
 ----------
