@@ -7,6 +7,7 @@
 
 | Problem | Solution |
 |-----------|---------|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/two-sum.py) |
 | [Max Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/MaxProfit.py) |
 | [Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/PerfectSquare.py) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/MaximumSubarray.py) |
@@ -15,6 +16,8 @@
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/palindrome-number.py) |
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/length-of-last-word.py) |
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestPalindrome.py) |
+
+
 
 ## Medium
 ----------
