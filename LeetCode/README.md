@@ -16,6 +16,8 @@
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/palindrome-number.py) |
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/length-of-last-word.py) |
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestPalindrome.py) |
+|[Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/path-sum.py) |
+
 
 
 
@@ -25,4 +27,3 @@
 |-----------|---------|
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestSubstringWithoutRepeats.py) |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/reverse_integer.py) |
-|[Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/path-sum.py) |
