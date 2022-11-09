@@ -25,3 +25,4 @@
 |-----------|---------|
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestSubstringWithoutRepeats.py) |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/reverse_integer.py) |
+|[Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/path-sum.py) |
