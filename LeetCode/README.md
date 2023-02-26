@@ -27,3 +27,4 @@
 |-----------|---------|
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestSubstringWithoutRepeats.py) |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/reverse_integer.py) |
+| [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/subsets.py) |
