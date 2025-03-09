@@ -31,6 +31,7 @@ Dynamic Programing
 | [Maximum Profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/MaxProfit.py) |
 | [Longest Substring w/o repeats](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestSubstringWithoutRepeats.py) |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/longest_palindromic_substring.py) |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/mdh266/PythonPractice/blob/main/LeetCode/LongestCommonPrefix.py) |
 
 
 LeetCode
