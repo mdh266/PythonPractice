@@ -18,7 +18,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | Linked List (Recursive) | [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/linkedlist_recursive.py)  | 
 | Double Linked List (Recursive) | [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/double_linkedlist.py)  | 
 | Binary Search Tree (Iterative) | [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/bst_iterative.py)  | 
-| Binary Search Tree (Iterative)  |  [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/bst_recursive.py)  | 
+| Binary Search Tree (Recursive)  |  [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/bst_recursive.py)  | 
 | Breath First & Dept First Traversals |  [Code](https://github.com/mdh266/PythonPractice/blob/main/datastructures_algorithms/graph_traversals.py)  | 
 
 
